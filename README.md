@@ -23,6 +23,16 @@
 [![Python-SNAPPY 8.0](https://img.shields.io/badge/PythonSNAPPY-8.0-blue.svg)](https://senbox.atlassian.net/wiki/spaces/SNAP/pages/50855941/Configure+Python+to+use+the+SNAP-Python+snappy+interface)
 [![Wandb 0.13.10](https://img.shields.io/badge/Wandb-0.13.10-blue.svg)](https://pypi.org/project/wandb/)
 
+
+## Our method and modules
+
+ <div align="left">
+  <img src="https://github.com/Tamer-Saleh/SemT-Former/blob/Flood-Mapping/method.png" width="480" height="340" />
+  <img src="https://github.com/Tamer-Saleh/SemT-Former/blob/Flood-Mapping/TCA.png" width="480" height="340" />
+  <img src="https://github.com/Tamer-Saleh/SemT-Former/blob/Flood-Mapping/tdfr.png" width="340" height="340" />
+</div>
+
+
 ### 🔭 Baselines <a name="baselines"></a>
 
 - :open_book:	:open_book:	 :open_book: FC-Siam [[here](https://ieeexplore.ieee.org/abstract/document/8451652)]
