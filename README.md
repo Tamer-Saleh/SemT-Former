@@ -10,7 +10,7 @@
 [![Author](https://img.shields.io/badge/GuiSong-Xia-orange.svg)](http://www.captain-whu.com/xia_En.html) 
 
 ## Updates
-| :zap:         | November, 2023: SemT-Former has been submitted for publication at JAG International Journal of Applied Earth Observation and Geoinformation. |
+| :zap:         | November 2023: SemT-Former has been submitted to JAG International Journal of Applied Earth Observation and Geoinformation. |
 |---------------|:------------------------|
 
 ## Requirements
