@@ -37,7 +37,7 @@
 Sentinel-1 images covering the Blue Nile and White Nile region of Khartoum city, Sudan.
  
  <div align="center">
-  <img src="https://github.com/Tamer-Saleh/SemT-Former/blob/Flood-Mapping/Sudan.png" width="340" height="340" />
+  <img src="https://github.com/Tamer-Saleh/SemT-Former/blob/Flood-Mapping/Sudan.png" width="775" height="551" />
 </div>
 
 ### 🔭 Baselines <a name="baselines"></a>
