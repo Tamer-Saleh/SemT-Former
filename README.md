@@ -6,7 +6,7 @@
 
 [![Author](https://img.shields.io/badge/Tamer-Saleh-orange.svg)](https://www.bu.edu.eg/staff/tamermohamed3) 
 [![Author](https://img.shields.io/badge/Shimaa-Holail-orange.svg)](https://www.linkedin.com/in/shimaaholail/) 
-[![Author](https://img.shields.io/badge/Xingxing-Weng-orange.svg)]() 
+[![Author](https://img.shields.io/badge/Xiongwu-Xiao-orange.svg)](http://jszy.whu.edu.cn/xiaoxiongwu1) 
 [![Author](https://img.shields.io/badge/GuiSong-Xia-orange.svg)](http://www.captain-whu.com/xia_En.html) 
 
 ## Updates
